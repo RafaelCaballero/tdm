@@ -1,0 +1,61 @@
+def confusion_matrix(predictions):
+    class_temp = predictions.select("label").groupBy("label")\
+                        .count().toPandas()
+    class_temp = class_temp["label"].values.tolist()
+    class_names = map(str, class_temp)
+
+
+    from sklearn.metrics import confusion_matrix
+    y_true = predictions.select("label")
+    y_true = y_true.toPandas()
+
+
+    y_pred = predictions.select("prediction")
+    y_pred = y_pred.toPandas()
+
+    cnf_matrix = confusion_matrix(y_true, y_pred,labels=class_temp)
+    return cnf_matrix, class_temp
+
+from pyspark.sql import SparkSession
+
+path = 'e:/rafa/docencia/1819/tdm/practicas/8/p8test.csv'
+# Load  data
+datosraw = spark.read.format("com.databricks.spark.csv")\
+            .options(header='true', inferschema='true') \
+            .load(path)
+print('cargado')
+vectorcols = [x for x in datosraw.columns if x not in ['label']]
+
+# genera un vector a partir de los valores X
+assembler = VectorAssembler(
+        inputCols=vectorcols,
+        outputCol='features')
+
+datosa =  assembler.transform(datosraw)
+datosa = datosa.select(['label','features'])
+    
+datos = datosraw
+datos = datosa
+predictions = model.transform(datos)       
+cnf,names =  confusion_matrix(predictions)
+print(cnf,list(names))
+
+# fila real, columna predicho
+fs = []
+for i in names:
+    # precision
+    a = cnf[i,i]
+    p = 0
+    r = 0
+    for j in names:
+        r += cnf[i,j]
+        p += cnf[j,i]
+    
+    r = a/r if r!=0 else 0
+    p = a/p if r!=0 else 0
+    f = 2*r*p/(r+p) if r+p>0 else 0
+    fs.append(f)
+    print(i,r,p, f)
+print('------')    
+print(min(fs))
+print(sum(fs)/len(fs))
