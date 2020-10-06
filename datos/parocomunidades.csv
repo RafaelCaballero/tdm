@@ -1,4 +1,4 @@
-Comunidades y Ciudades Autónomas,Periodo,Total
+Comunidad,Periodo,Total
 Andalucía,2019,20.8
 Andalucía,2018,21.26
 Andalucía,2017,24.43
@@ -35,24 +35,24 @@ Aragón,2005,5.76
 Aragón,2004,5.56
 Aragón,2003,6.53
 Aragón,2002,6.54
-Asturias. Principado de,2019,13.14
-Asturias. Principado de,2018,12.86
-Asturias. Principado de,2017,14.64
-Asturias. Principado de,2016,14.59
-Asturias. Principado de,2015,20.33
-Asturias. Principado de,2014,20.78
-Asturias. Principado de,2013,22.29
-Asturias. Principado de,2012,23.82
-Asturias. Principado de,2011,18.84
-Asturias. Principado de,2010,16.61
-Asturias. Principado de,2009,14.13
-Asturias. Principado de,2008,10
-Asturias. Principado de,2007,8
-Asturias. Principado de,2006,9.09
-Asturias. Principado de,2005,9.3
-Asturias. Principado de,2004,10.24
-Asturias. Principado de,2003,10.14
-Asturias. Principado de,2002,10.12
+Asturias,2019,13.14
+Asturias,2018,12.86
+Asturias,2017,14.64
+Asturias,2016,14.59
+Asturias,2015,20.33
+Asturias,2014,20.78
+Asturias,2013,22.29
+Asturias,2012,23.82
+Asturias,2011,18.84
+Asturias,2010,16.61
+Asturias,2009,14.13
+Asturias,2008,10
+Asturias,2007,8
+Asturias,2006,9.09
+Asturias,2005,9.3
+Asturias,2004,10.24
+Asturias,2003,10.14
+Asturias,2002,10.12
 Balears. Illes,2019,9.91
 Balears. Illes,2018,10.91
 Balears. Illes,2017,12.61
@@ -215,60 +215,60 @@ Galicia,2005,9.14
 Galicia,2004,12.47
 Galicia,2003,13.46
 Galicia,2002,11.89
-Madrid. Comunidad de,2019,9.99
-Madrid. Comunidad de,2018,11.54
-Madrid. Comunidad de,2017,13.75
-Madrid. Comunidad de,2016,14.6
-Madrid. Comunidad de,2015,16.51
-Madrid. Comunidad de,2014,18
-Madrid. Comunidad de,2013,20.45
-Madrid. Comunidad de,2012,19.32
-Madrid. Comunidad de,2011,17.96
-Madrid. Comunidad de,2010,15.54
-Madrid. Comunidad de,2009,14.48
-Madrid. Comunidad de,2008,10.02
-Madrid. Comunidad de,2007,6.4
-Madrid. Comunidad de,2006,6.46
-Madrid. Comunidad de,2005,5.9
-Madrid. Comunidad de,2004,6.95
-Madrid. Comunidad de,2003,7.16
-Madrid. Comunidad de,2002,6.99
-Murcia. Región de,2019,16.08
-Murcia. Región de,2018,15.83
-Murcia. Región de,2017,17.21
-Murcia. Región de,2016,18.58
-Murcia. Región de,2015,23.51
-Murcia. Región de,2014,27.26
-Murcia. Región de,2013,28.5
-Murcia. Región de,2012,29.37
-Murcia. Región de,2011,26.31
-Murcia. Región de,2010,24.45
-Murcia. Región de,2009,21.84
-Murcia. Región de,2008,15.29
-Murcia. Región de,2007,8.25
-Murcia. Región de,2006,7.85
-Murcia. Región de,2005,7.43
-Murcia. Región de,2004,9.96
-Murcia. Región de,2003,10.76
-Murcia. Región de,2002,11.45
-Navarra. Comunidad Foral de,2019,9.01
-Navarra. Comunidad Foral de,2018,9.99
-Navarra. Comunidad Foral de,2017,9.63
-Navarra. Comunidad Foral de,2016,10.01
-Navarra. Comunidad Foral de,2015,13.53
-Navarra. Comunidad Foral de,2014,14.92
-Navarra. Comunidad Foral de,2013,16.44
-Navarra. Comunidad Foral de,2012,17.17
-Navarra. Comunidad Foral de,2011,13.8
-Navarra. Comunidad Foral de,2010,11.77
-Navarra. Comunidad Foral de,2009,10.51
-Navarra. Comunidad Foral de,2008,8.13
-Navarra. Comunidad Foral de,2007,4.28
-Navarra. Comunidad Foral de,2006,4.59
-Navarra. Comunidad Foral de,2005,5.92
-Navarra. Comunidad Foral de,2004,5.14
-Navarra. Comunidad Foral de,2003,6.16
-Navarra. Comunidad Foral de,2002,5.58
+Madrid,2019,9.99
+Madrid,2018,11.54
+Madrid,2017,13.75
+Madrid,2016,14.6
+Madrid,2015,16.51
+Madrid,2014,18
+Madrid,2013,20.45
+Madrid,2012,19.32
+Madrid,2011,17.96
+Madrid,2010,15.54
+Madrid,2009,14.48
+Madrid,2008,10.02
+Madrid,2007,6.4
+Madrid,2006,6.46
+Madrid,2005,5.9
+Madrid,2004,6.95
+Madrid,2003,7.16
+Madrid,2002,6.99
+Murcia,2019,16.08
+Murcia,2018,15.83
+Murcia,2017,17.21
+Murcia,2016,18.58
+Murcia,2015,23.51
+Murcia,2014,27.26
+Murcia,2013,28.5
+Murcia,2012,29.37
+Murcia,2011,26.31
+Murcia,2010,24.45
+Murcia,2009,21.84
+Murcia,2008,15.29
+Murcia,2007,8.25
+Murcia,2006,7.85
+Murcia,2005,7.43
+Murcia,2004,9.96
+Murcia,2003,10.76
+Murcia,2002,11.45
+Navarra,2019,9.01
+Navarra,2018,9.99
+Navarra,2017,9.63
+Navarra,2016,10.01
+Navarra,2015,13.53
+Navarra,2014,14.92
+Navarra,2013,16.44
+Navarra,2012,17.17
+Navarra,2011,13.8
+Navarra,2010,11.77
+Navarra,2009,10.51
+Navarra,2008,8.13
+Navarra,2007,4.28
+Navarra,2006,4.59
+Navarra,2005,5.92
+Navarra,2004,5.14
+Navarra,2003,6.16
+Navarra,2002,5.58
 País Vasco,2019,9.09
 País Vasco,2018,9.58
 País Vasco,2017,10.57
@@ -287,24 +287,24 @@ País Vasco,2005,6.45
 País Vasco,2004,9.26
 País Vasco,2003,9.93
 País Vasco,2002,9.64
-Rioja. La,2019,9.89
-Rioja. La,2018,10.3
-Rioja. La,2017,11.51
-Rioja. La,2016,10.9
-Rioja. La,2015,13.97
-Rioja. La,2014,17.17
-Rioja. La,2013,20.24
-Rioja. La,2012,18.82
-Rioja. La,2011,18.61
-Rioja. La,2010,15.58
-Rioja. La,2009,13.76
-Rioja. La,2008,9.8
-Rioja. La,2007,5.88
-Rioja. La,2006,6.88
-Rioja. La,2005,6.69
-Rioja. La,2004,4.68
-Rioja. La,2003,6.75
-Rioja. La,2002,5.65
+La Rioja,2019,9.89
+La Rioja,2018,10.3
+La Rioja,2017,11.51
+La Rioja,2016,10.9
+La Rioja,2015,13.97
+La Rioja,2014,17.17
+La Rioja,2013,20.24
+La Rioja,2012,18.82
+La Rioja,2011,18.61
+La Rioja,2010,15.58
+La Rioja,2009,13.76
+La Rioja,2008,9.8
+La Rioja,2007,5.88
+La Rioja,2006,6.88
+La Rioja,2005,6.69
+La Rioja,2004,4.68
+La Rioja,2003,6.75
+La Rioja,2002,5.65
 Ceuta,2019,27.58
 Ceuta,2018,24.02
 Ceuta,2017,26.03
