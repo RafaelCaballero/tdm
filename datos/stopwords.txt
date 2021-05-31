@@ -1,3 +1,10 @@
+cosas
+tipo
+habla
+opcion
+sino
+queri
+viene
 hoy
 dic
 refieren
