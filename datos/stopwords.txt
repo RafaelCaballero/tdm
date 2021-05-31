@@ -1,3 +1,5 @@
+hora
+vida
 debemos
 visto
 tres
