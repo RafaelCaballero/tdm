@@ -1,3 +1,4 @@
+saludos
 dia
 rio
 amo
@@ -48,7 +49,6 @@ puede
 dice
 usar
 cómo
-covid
 duda
 días
 buenas
