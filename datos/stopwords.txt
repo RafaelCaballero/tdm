@@ -1,3 +1,8 @@
+nla
+expresion
+oracion
+ejemplo
+ejemplos
 termino
 usa
 quisiera
