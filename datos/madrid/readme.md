@@ -12,3 +12,4 @@
 ### Otros 
 
 * calendario.csv: calendario comunidad de madrid con fiestas
+* trafico_ej.csv: Ejemplo de datos de trafico en 3 estaciones durante octubre de 2021
