@@ -1,54 +1,54 @@
-level_0,index,_id,followers,location,screen_name,verified,long,lat
-0,4,148076807,515,"19.447297,-70.678351",eugenio_sky,False,-3.68506,40.42717
-1,23,557076972,1022,BCN,annetapedro,False,2.17640221,41.40560346
-2,24,800430827947442176,20,"Valencia, España",Trastarteando,False,-0.29313098,39.5676291
-3,34,1187834312,653,"Madrid, Spain",manukareol,False,-3.70505,40.43852
-4,35,3153928585,99,"Málaga, Andalucía",PedroMendez_mlg,False,-4.40747973,36.72008667
-5,41,18901057,1562,UK/Brasil/España,GuitarCafe,False,0.06069287,40.05291748
-6,42,117884436,1502,Barcelona,Ldiazalonso,False,-3.70736,40.42138
-7,49,761237429072388096,35,"Madrid, Comunidad de Madrid",fjdemi,False,-3.5843,40.36032
-8,55,184959473,733,LA MANCHA y SEVILLA ,DonaireAlberto,False,-3.93079,38.9868499
-9,56,2838312285,27,España,begonabotana,False,-8.41072,43.35527
-10,66,984999942,1239,Elche,DeportesSinAdje,False,-0.4952552999999999,38.35411037
-11,77,287826955,2244,Salamanca,AlexLorrys,False,-5.66529737,40.99558849
-12,81,292027758,2442,madrid (españa),juanemilioma,False,-3.70356,40.4139
-13,103,459477808,697,Estadio de Riazor,carrinho_7,False,-8.4175908,43.36888152
-14,106,875433438,491,"De Salamanca, en Madrid ",veracoteloc,False,-3.68201315,40.41370364
-15,136,89165765,27536,Madrid,martuniki,True,-3.5551,40.4232
-16,140,2378742043,106,valencia,alvarotriatlon,False,-0.3329904999999999,39.5691757
-17,142,701379658600882176,168,"Elche, España",juancaitan999,False,-0.74404,38.22707
-18,148,42004114,2340,"Canary Islands, Spain",sheilacrosby403,False,-17.77551,28.64167
-19,154,299264539,147,"Santa Cruz de Tenerife, España",cocinadedolores,False,-16.50680045,28.41380848
-20,158,96663968,1394,"Budapest, Hungría",GGabrielaH,False,-3.70915,40.41911
-21,160,913311027407802368,44,"Madrid, España",Xoroto82,False,-3.5551,40.4232
-22,162,180333341,413,"Valencia, España",_albertt_,False,-3.69657487,40.41638978
-23,169,1974659378,2198,Barcelona,sr_boca,False,2.15353,41.39435
-24,174,745651197286162432,203,"Carmona, España",Santa_MartaSL,False,-5.6468533,37.4819022
-25,191,92629354,981,"Zaragoza, España",javinumy,False,-0.9039,41.63479
-26,197,4069778056,702,"Madrid, Spain",eliaonmymind,False,4.24239635,39.82045827
-27,205,996055734,475,Móstoles-Madrid/Orihuela Costa,LidiaMP_12,False,-3.57525,40.207
-28,208,278039896,241,Barcelona,capitanspavento,False,2.16731653,41.37595159
-29,210,118352921,2961,"Madrid ,Spain",fvazquezmedem,False,-3.68459,40.42783
-30,215,270010775,39,Felgosas-A Coruña ,ReinaldoReini,False,-8.2857176,43.31585514
-31,229,184537316,408,PARAGUAY,miguelx94,False,-8.17653443,43.4960276
-32,242,1580184631,102,Elche.,josevcanales,False,-0.64312778,38.21970556
-33,253,719905537396228096,706,"Mijas, Spain",AlanDreezer,False,-4.67365971,36.55581127
-34,259,1495328876,763,"Madrid, Comunidad de Madrid",Pablocarroglez,False,-3.746949,40.322687
-35,261,246837853,2480,Madrid,Kutxi_Pacheco,False,-3.70042,40.44097
-36,267,142451580,52,Madrid,murcianicaguapa,False,-8.78276507,42.26421295
-37,278,709714971,872,"Málaga, España",MarPadilla_,False,-4.46135258,36.66617241
-38,281,15703541,5084,"Washington, D.C.",wbdnewton,False,-3.70736,40.42138
-39,284,1553476147,214,Madrid - Spain,MuchoFunkSpain,False,-3.45742,40.44657
-40,293,849681349162283008,217,"Principado de Asturias, España",sparacingfoto,False,-3.68645155,43.38838729
-41,294,757471410,324,"Glasgow, Scotland",20_Tina_Torres,False,-3.71152739,40.42256044
-42,296,1122025458,846,"A Coruña, España",acasar51,False,-8.26465,43.3228
-43,299,233345061,2437,Albacete,A_MtnezIniesta,False,-3.69218,40.41901
-44,303,1723462104,103,"Torrent, Valencia",adolvale,False,-0.466667,39.4333
-45,305,84143687,1814,Madrid - Cáceres,Alpaniagu,False,-3.70326036,40.46444702
-46,308,106841104,90,Cuidotumascota.com ,OLKI69,False,-3.5843,40.36032
-47,309,943230391,64,Arteixo,chelodxastre,False,-8.40165,43.36976
-48,310,1337479172441169920,1328,"Sevilla, España",CajonSevillano,False,-5.9908279,37.389712
-49,334,446433608,924,Villalba Sity,SandraAyuso_,False,-3.98547318,40.6448867
-50,337,490529286,431,JLAM  ∞,likeblueskies,False,-3.65667848,40.52085767
-51,342,3352643962,256,"Valencia, España",alexvelasco943,False,0.05,38.65
-52,343,799512942,1149,"Las Palmas, Islas Canarias",BombonKarol,False,-17.98083333,27.64194444
+_id,followers,location,screen_name,verified,long,lat
+148076807,515,"19.447297,-70.678351",eugenio_sky,False,-3.68506,40.42717
+557076972,1022,BCN,annetapedro,False,2.17640221,41.40560346
+800430827947442176,20,"Valencia, España",Trastarteando,False,-0.29313098,39.5676291
+1187834312,653,"Madrid, Spain",manukareol,False,-3.70505,40.43852
+3153928585,99,"Málaga, Andalucía",PedroMendez_mlg,False,-4.40747973,36.72008667
+18901057,1562,UK/Brasil/España,GuitarCafe,False,0.06069287,40.05291748
+117884436,1502,Barcelona,Ldiazalonso,False,-3.70736,40.42138
+761237429072388096,35,"Madrid, Comunidad de Madrid",fjdemi,False,-3.5843,40.36032
+184959473,733,LA MANCHA y SEVILLA ,DonaireAlberto,False,-3.93079,38.9868499
+2838312285,27,España,begonabotana,False,-8.41072,43.35527
+984999942,1239,Elche,DeportesSinAdje,False,-0.4952552999999999,38.35411037
+287826955,2244,Salamanca,AlexLorrys,False,-5.66529737,40.99558849
+292027758,2442,madrid (españa),juanemilioma,False,-3.70356,40.4139
+459477808,697,Estadio de Riazor,carrinho_7,False,-8.4175908,43.36888152
+875433438,491,"De Salamanca, en Madrid ",veracoteloc,False,-3.68201315,40.41370364
+89165765,27536,Madrid,martuniki,True,-3.5551,40.4232
+2378742043,106,valencia,alvarotriatlon,False,-0.3329904999999999,39.5691757
+701379658600882176,168,"Elche, España",juancaitan999,False,-0.74404,38.22707
+42004114,2340,"Canary Islands, Spain",sheilacrosby403,False,-17.77551,28.64167
+299264539,147,"Santa Cruz de Tenerife, España",cocinadedolores,False,-16.50680045,28.41380848
+96663968,1394,"Budapest, Hungría",GGabrielaH,False,-3.70915,40.41911
+913311027407802368,44,"Madrid, España",Xoroto82,False,-3.5551,40.4232
+180333341,413,"Valencia, España",_albertt_,False,-3.69657487,40.41638978
+1974659378,2198,Barcelona,sr_boca,False,2.15353,41.39435
+745651197286162432,203,"Carmona, España",Santa_MartaSL,False,-5.6468533,37.4819022
+92629354,981,"Zaragoza, España",javinumy,False,-0.9039,41.63479
+4069778056,702,"Madrid, Spain",eliaonmymind,False,4.24239635,39.82045827
+996055734,475,Móstoles-Madrid/Orihuela Costa,LidiaMP_12,False,-3.57525,40.207
+278039896,241,Barcelona,capitanspavento,False,2.16731653,41.37595159
+118352921,2961,"Madrid ,Spain",fvazquezmedem,False,-3.68459,40.42783
+270010775,39,Felgosas-A Coruña ,ReinaldoReini,False,-8.2857176,43.31585514
+184537316,408,PARAGUAY,miguelx94,False,-8.17653443,43.4960276
+1580184631,102,Elche.,josevcanales,False,-0.64312778,38.21970556
+719905537396228096,706,"Mijas, Spain",AlanDreezer,False,-4.67365971,36.55581127
+1495328876,763,"Madrid, Comunidad de Madrid",Pablocarroglez,False,-3.746949,40.322687
+246837853,2480,Madrid,Kutxi_Pacheco,False,-3.70042,40.44097
+142451580,52,Madrid,murcianicaguapa,False,-8.78276507,42.26421295
+709714971,872,"Málaga, España",MarPadilla_,False,-4.46135258,36.66617241
+15703541,5084,"Washington, D.C.",wbdnewton,False,-3.70736,40.42138
+1553476147,214,Madrid - Spain,MuchoFunkSpain,False,-3.45742,40.44657
+849681349162283008,217,"Principado de Asturias, España",sparacingfoto,False,-3.68645155,43.38838729
+757471410,324,"Glasgow, Scotland",20_Tina_Torres,False,-3.71152739,40.42256044
+1122025458,846,"A Coruña, España",acasar51,False,-8.26465,43.3228
+233345061,2437,Albacete,A_MtnezIniesta,False,-3.69218,40.41901
+1723462104,103,"Torrent, Valencia",adolvale,False,-0.466667,39.4333
+84143687,1814,Madrid - Cáceres,Alpaniagu,False,-3.70326036,40.46444702
+106841104,90,Cuidotumascota.com ,OLKI69,False,-3.5843,40.36032
+943230391,64,Arteixo,chelodxastre,False,-8.40165,43.36976
+1337479172441169920,1328,"Sevilla, España",CajonSevillano,False,-5.9908279,37.389712
+446433608,924,Villalba Sity,SandraAyuso_,False,-3.98547318,40.6448867
+490529286,431,JLAM  ∞,likeblueskies,False,-3.65667848,40.52085767
+3352643962,256,"Valencia, España",alexvelasco943,False,0.05,38.65
+799512942,1149,"Las Palmas, Islas Canarias",BombonKarol,False,-17.98083333,27.64194444
