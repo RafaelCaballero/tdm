@@ -1,0 +1,7 @@
+(NumeroInicial as int, NumeroFinal as int)=>
+let
+  #"Convert to Table" = Table.FromList(List.Numbers(NumeroInicial, NumeroFinal), Splitter.SplitByNothing(), null, null, ExtraValues.Error),
+  #"Changed type" = Table.TransformColumnTypes(#"Convert to Table", {{"Column1", type text}}),
+  #"Tabla horas" = Table.RenameColumns(#"Changed type",{{"Column1", "Hora"}})
+in  
+  #"Tabla horas"
