@@ -1,4 +1,4 @@
-(NumeroInicial as int, NumeroFinal as int)=>
+(NumeroInicial as number, NumeroFinal as number)=>
 let
   #"Convert to Table" = Table.FromList(List.Numbers(NumeroInicial, NumeroFinal), Splitter.SplitByNothing(), null, null, ExtraValues.Error),
   #"Changed type" = Table.TransformColumnTypes(#"Convert to Table", {{"Column1", type text}}),
