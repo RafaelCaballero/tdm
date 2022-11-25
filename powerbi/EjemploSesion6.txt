@@ -1,0 +1,98 @@
+//Ejemplo 1
+Cantidad = SUM(fctSales[Quantity])
+
+// Ejemplo 2
+Importe = SUMX(fctSales,fctSales[Price]*fctSales[Quantity])
+
+// Ejemplo 3
+Número total de ítems vendidos = SUMX(ALL(fctSales),fctSales[Quantity])
+
+// Ejemplo 4
+número de ventas = COUNTROWS(fctSales)
+
+// Ejemplo 5
+ventas con al menos 4 ítems = 
+ COUNTROWS( FILTER(fctSales,fctSales[Quantity]>4) )
+
+// Ejemplo 6
+ventas con al menos 4 ítems = 
+VAR filtrado = FILTER(fctSales,fctSales[Quantity]>4) 
+RETURN COUNTROWS( filtrado  )
+
+// Ejemplo 7
+ventas de makeup = 
+VAR filtrado = FILTER(fctSales,RELATED(dimProduct[Product Category])="Makeup") 
+RETURN COUNTROWS( filtrado  )
+
+// Ejemplo 8
+importe hair care 2 = CALCULATE([Importe],dimProduct[Product Category]="Hair Care")
+
+// ejemplo 9
+Importe Elsa 2= 
+VAR importe = SUMX(fctSales,fctSales[Price]*fctSales[Quantity])
+VAR result  = CALCULATE(importe, dimCustomer[Customer Name]="Elsa")
+return result
+
+// Ejemplo 10
+Importe = fctSales[Price]*fctSales[Quantity]
+
+// Ejemplo 11
+importe hair care 3 = 
+CALCULATE(sum(fctSales[Importe]),
+           dimProduct[Product Category]="Hair Care")
+
+importe hair care 4= 
+VAR filtrado = FILTER(fctSales,
+  RELATED(dimProduct[Product Category])="Hair Care") 
+return SUMX(filtrado,fctSales[Importe])
+
+// Ejemplo 12 dimCostumer, new Column
+total ventas = sum(fctSales[Importe]) 
+
+// Ejemplo 13 dimCostumer, new Column
+total ventas = calculate(sum(fctSales[Importe]) )
+
+// Ejemplo 14
+promedio ventas 2 = average(dimCustomer[total ventas])
+
+// ejemplo 15
+promedio ventas 2 = calculate(average(dimCustomer[total ventas]))
+
+// Ejemplo 16
+promedio ventas 2 = calculate(
+                      divide(                                      					SUM(fctSales[Importe]),                                                           
+                        SUM(fctSales[Quantity]),0))
+
+// Ejemplo 17;  mal, fuera de la transición de contexto
+promedio ventas 2 = 
+VAR totalImporte = SUM(fctSales[Importe])
+VAR totalCantidad = SUM(fctSales[Quantity])
+VAR resultado = divide(totalImporte, totalCantidad ,0)
+return 
+  calculate(resultado)
+
+// Ejemplo 18
+promedio ventas 2 = 
+VAR totalImporte = calculate(SUM(fctSales[Importe]))
+VAR totalCantidad = calculate(SUM(fctSales[Quantity]))
+VAR resultado = divide(totalImporte, totalCantidad ,0)
+return 
+  resultado
+  
+// Ejemplo 19  
+promedio ventas - medida = 
+VAR totalImporte = SUM(fctSales[Importe])
+VAR totalCantidad = SUM(fctSales[Quantity])
+VAR resultado = divide(totalImporte, totalCantidad ,0)
+return 
+  resultado
+
+// Ejemplo 20 añadir columnas En fctsales
+coste total = fctSales[Unit Cost]*fctSales[Quantity]
+coste % = Divide(fctSales[Coste Total],fctSales[importe],0)
+
+
+// Ejemplo 21 Medida para el coste %
+coste %  = DIVIDE(sum(fctSales[Coste Total]), sum(fctSales[importe]), 0)
+
+
