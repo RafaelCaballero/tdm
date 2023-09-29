@@ -1,0 +1,35 @@
+db.cuentas.insert({
+    nombre:"bertoldo",
+    calle:"General Jamón, num. 3.141592",
+    cuentas:[ {num:"001", saldo:2000, compartida:true},
+	     {num:"002", saldo:100, compartida:false}],
+    datoscontacto:{ email:"bertoldo@ucm.es", 
+                    telfs:{fijo:"913421234", 
+                           movil:["5655555","444444"]} }
+})
+
+
+db.cuentas.insert({
+    nombre:"herminia",
+    calle:"General Jamón, num. 3.141592",
+    cuentas:[ {num:"001", saldo:2000, compartida:true}],
+    datoscontacto:{ email:"herminia@ucm.es", 
+                    telfs:{fijo:"913421234", 
+                           movil:["22222"]} }
+})
+
+db.cuentas.insert({
+    nombre:"aniceto",
+    calle:"Calle, calle",
+    cuentas:[ {num:"003", saldo:1500, compartida:false}],
+    hipoteca:{total:250000,debe:0}
+})
+
+db.cuentas.insert({
+    nombre:"toribia",
+    calle:"Vía Pía",
+    cuentas:[ {num:"004", saldo:300, compartida:false}],
+    hipoteca:{total:150000,debe:110000}
+})
+
+
