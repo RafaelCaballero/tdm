@@ -1,0 +1,5 @@
+db.gustos.drop()
+db.gustos.insert({nombre:"Bertoldo", comida:["lentejas","fabada","cocido" ], aficiones:["siesta","cine"]})
+db.gustos.insert({nombre:"Herminia", comida:["ensalada", "pizza","cocido" ], aficiones:["correr","cine"]})
+db.gustos.insert({nombre:"Aniceta", comida:["salmón","caviar","champán" ], aficiones:["viajar","cine"]})
+db.gustos.insert({nombre:"Godofredo", comida:"ensalada", aficiones:["correr","montaña"]})
