@@ -1,0 +1,29 @@
+{'_id': 'Bertoldo', 'País': 'Francia',  
+IP : ['147.96.1.5','127.0.0.1'],
+actions:[{action:'login',"timestamp": "2018-05-24 22:19:41",  duration:13,success: true},
+	 {action:'consult',"timestamp": "2018-05-24 22:19:45",duration:4,success: false, error:'syntax error'}],
+completed:2}
+{'_id': 'Herminia', 'País': 'Alemania',
+IP : '2.18.111.255',
+actions:[{action:'login',"timestamp": "2018-05-24 11:19:45",duration:16,success: true},
+         {action:'delete file',"timestamp": "2018-05-24 12:19:13",duration:54,success: false},
+         {action:'consult',"timestamp": "2018-05-24 12:22:12"}
+         ],
+completed:2}
+{'_id': 'Sinda', 'País': 'Alemania', 
+IP:['147.96.1.5','147.121.1.1','154.33.255.128'],
+actions:[
+   {action:'login',"timestamp": "2018-05-24 14:00:47",duration:400,success: true},
+   {action:'edit',"timestamp": "2018-05-24 14:30:13",duration:1600,success: true},
+   {action:'delete',"timestamp": "2018-05-24 15:03:21",duration:8,success: false,error:'access denied'} ],
+completed:3}
+{'_id': 'Aniceto', 'País': 'Francia',  
+IP : ['147.96.1.5','127.0.0.1'],
+actions:[{action:'login',"timestamp": "2018-06-24 12:10:0",  duration:13,success: false},
+	 {action:'consult',"timestamp": "2018-05-24 12:19:45"}],
+completed:1}
+{'_id': 'Frabricio', 'País': 'Italia',  
+IP : ['147.96.1.5','127.0.0.1'],
+actions:[{action:'login',"timestamp": "2018-05-24 22:19:41",  duration:13,success: true},
+	 {action:'consult',"timestamp": "2018-05-24 22:19:45",duration:4,success: false, error:'syntax error'}],
+completed:2}
