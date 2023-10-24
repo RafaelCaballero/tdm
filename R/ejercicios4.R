@@ -85,3 +85,101 @@ df_pisa_largo<-df_pisa %>% gather(key="materia",value="nota",-PAIS, -RPC)
 pisa_por_paises <- df_pisa_largo %>% group_by(PAIS)
 res <- pisa_por_paises %>% summarise(mean(nota))
 
+## Ejercicio 7
+library(dplyr)
+url = "https://ucmdrive.ucm.es/s/zbjRbYfNtwmicGX/download/ventas.csv"
+df = read.csv(url, sep=";", encoding="UTF-8", colClasses=c("CENTRO"="character", "REF.CENTER"="character" ,                                                "REF.CENTRAL"="character"))
+
+
+df2 <- df %>%filter(CENTRO=="3156") %>% group_by(AREA) %>% 
+  summarise(total=sum(VENTAS))
+
+barplot(df2$total,
+        main="VENTAS POR ÁREA",
+        xlab="ÁREA",
+        col="darkred",
+        names.arg=df2$AREA
+)
+
+## Ejercicio 8
+dfSeccion <- df %>%
+  filter(CENTRO=="3156", AREA== "FRESCOS") %>%
+  group_by(SECCION) %>% 
+  summarise(total=sum(VENTAS))
+
+x <- dfSeccion$total
+colores = rainbow(length(x))
+pie(x,labels=x,radius=1,
+    main="Distribución …", col = colores)
+legend("topright", dfSeccion$SECCION,
+       cex = 0.6, fill = colores)
+
+## Ejercicio 9
+
+df9 <- df %>% 
+filter(CENTRO=="3156", AREA!= "GENERALES") %>% 
+group_by(N.Mes, AREA) %>% 
+summarise(media=mean(VENTAS)) %>%
+spread(AREA,media) 
+
+M <- cor(df9[,2:ncol(df9)])
+corrplot(M, method="circle", type="upper", order="hclust")
+  
+## Ejercicio 10
+# seleccionamos solo alimentación y frescos porque son los que ocupan casi la totalidad
+df_area <- df %>% filter(CENTRO=="3156", AREA=="FRESCOS") %>%
+  group_by(SECCION, CATEGORIA) %>% summarise(total=sum(VENTAS))
+
+treemap(df_area, # dataframe
+        index=c("SECCION","CATEGORIA"), # grupos y subgrupos
+        vSize="total", # variable que determinará el área del rectángulo
+        type="index",  # cómo se determina el color. En este caso por grupos
+        title = "VENTAS por secciones en las áreas ALIMENTACION y FRESCOS",
+        fontsize.labels=c(15,12), # Tamaño de las etiquetas
+        fontcolor.labels=c("white","orange"), # Color de las etiquetas
+        fontface.labels=c(2,1),               # Tipo de font (ver ayuda)        
+        bg.labels=c("transparent"),           # Fondo de las etiquetas        
+        align.labels=list(c("center", "center"), c("right", "bottom")), # situación de las etiqs.
+        overlap.labels=1,       # si se tolera superposición de etiqs        
+        inflate.labels=F,       # Si T, el tamaño de la etq. depende del área        
+        force.print.labels=T # muestra las etiquetas, incluso si no caben
+)
+
+## Ejercicio 11
+pdf("graficas.pdf")
+grafica_area_centro = 
+  function(centro,color,df) {
+    dfAreaCentro <- df %>% filter(CENTRO==centro) %>% 
+      group_by(AREA) %>% summarise(total=sum(VENTAS));
+    barplot(dfAreaCentro$total,
+            main=paste("CENTRO ",centro),
+            xlab="Área",
+            ylab="Ventas",
+            ylim = c(0,4000000),
+            col=color,
+            names.arg=dfAreaCentro$AREA
+    )
+    box()
+    return
+  }
+
+par(mfrow=c(1,2))
+grafica_area_centro("3156","red",df)
+grafica_area_centro("3908","blue",df)
+dev.off()
+
+## Ejercicio 12
+url = "https://ucmdrive.ucm.es/s/zbjRbYfNtwmicGX/download/ventas.csv"
+df = read.csv(url, sep=";", encoding="UTF-8", colClasses=c("CENTRO"="character", "REF.CENTER"="character" , "REF.CENTRAL"="character"))
+dfbebidas <- df %>% filter(SECCION=="BEBIDAS") %>%
+             group_by(N.Mes) %>% summarise(total=sum(VENTAS))
+boxplot(dfbebidas$total, horizontal = TRUE, axes = FALSE, col="red")
+text(x=fivenum(dfbebidas$total), labels =fivenum(dfbebidas$total), y=1.25)
+
+# Ejercicio 13
+
+# Ejercicio 14
+ggplot(data=dfFundido, aes(y=Ventas , x=N.Mes, color=total, size=2,group=total)) +
+  geom_point() +scale_size(guide= 'none') +
+  scale_x_discrete(limits=dfFundido$N.Mes) 
+
