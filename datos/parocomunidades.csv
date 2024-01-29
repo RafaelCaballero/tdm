@@ -1,343 +1,419 @@
-Comunidad,Periodo,Total
-Andalucía,2019,20.8
-Andalucía,2018,21.26
-Andalucía,2017,24.43
-Andalucía,2016,28.25
-Andalucía,2015,29.83
-Andalucía,2014,34.23
-Andalucía,2013,36.26
-Andalucía,2012,35.71
-Andalucía,2011,31.01
-Andalucía,2010,28.04
-Andalucía,2009,26.27
-Andalucía,2008,21.66
-Andalucía,2007,13.96
-Andalucía,2006,12.22
-Andalucía,2005,13.8
-Andalucía,2004,15.99
-Andalucía,2003,18.35
-Andalucía,2002,20.15
-Aragón,2019,9.93
-Aragón,2018,11.11
-Aragón,2017,11.37
-Aragón,2016,13.53
-Aragón,2015,14.6
-Aragón,2014,18.65
-Aragón,2013,20.59
-Aragón,2012,18.72
-Aragón,2011,16.8
-Aragón,2010,16.29
-Aragón,2009,13.57
-Aragón,2008,9.71
-Aragón,2007,5.12
-Aragón,2006,4.99
-Aragón,2005,5.76
-Aragón,2004,5.56
-Aragón,2003,6.53
-Aragón,2002,6.54
-Asturias,2019,13.14
-Asturias,2018,12.86
-Asturias,2017,14.64
-Asturias,2016,14.59
-Asturias,2015,20.33
-Asturias,2014,20.78
-Asturias,2013,22.29
-Asturias,2012,23.82
-Asturias,2011,18.84
-Asturias,2010,16.61
-Asturias,2009,14.13
-Asturias,2008,10
-Asturias,2007,8
-Asturias,2006,9.09
-Asturias,2005,9.3
-Asturias,2004,10.24
-Asturias,2003,10.14
-Asturias,2002,10.12
-Balears. Illes,2019,9.91
-Balears. Illes,2018,10.91
-Balears. Illes,2017,12.61
-Balears. Illes,2016,13.8
-Balears. Illes,2015,17.02
-Balears. Illes,2014,18.88
-Balears. Illes,2013,22.72
-Balears. Illes,2012,24.3
-Balears. Illes,2011,25.49
-Balears. Illes,2010,21.78
-Balears. Illes,2009,19.45
-Balears. Illes,2008,12.05
-Balears. Illes,2007,9.35
-Balears. Illes,2006,6.34
-Balears. Illes,2005,7.5
-Balears. Illes,2004,8.09
-Balears. Illes,2003,10.01
-Balears. Illes,2002,8.69
-Canarias,2019,18.78
-Canarias,2018,19.99
-Canarias,2017,22.04
-Canarias,2016,24.9
-Canarias,2015,26.75
-Canarias,2014,31.08
-Canarias,2013,33.09
-Canarias,2012,32.6
-Canarias,2011,30.33
-Canarias,2010,28.78
-Canarias,2009,26.77
-Canarias,2008,20.99
-Canarias,2007,10.89
-Canarias,2006,11.37
-Canarias,2005,10.88
-Canarias,2004,10.75
-Canarias,2003,12.04
-Canarias,2002,11.32
-Cantabria,2019,11.18
-Cantabria,2018,9.68
-Cantabria,2017,13.49
-Cantabria,2016,12.89
-Cantabria,2015,17.71
-Cantabria,2014,18.42
-Cantabria,2013,19.81
-Cantabria,2012,19.19
-Cantabria,2011,15.92
-Cantabria,2010,14.67
-Cantabria,2009,12.7
-Cantabria,2008,8.81
-Cantabria,2007,4.72
-Cantabria,2006,5.87
-Cantabria,2005,8.01
-Cantabria,2004,11.1
-Cantabria,2003,10.42
-Cantabria,2002,10.58
-Castilla y León,2019,11.2
-Castilla y León,2018,11.21
-Castilla y León,2017,13.71
-Castilla y León,2016,14.81
-Castilla y León,2015,17.58
-Castilla y León,2014,20.28
-Castilla y León,2013,22.02
-Castilla y León,2012,20.74
-Castilla y León,2011,17.21
-Castilla y León,2010,15.78
-Castilla y León,2009,14.21
-Castilla y León,2008,11.4
-Castilla y León,2007,6.94
-Castilla y León,2006,7.58
-Castilla y León,2005,8.53
-Castilla y León,2004,10.48
-Castilla y León,2003,11.02
-Castilla y León,2002,10.15
-Castilla - La Mancha,2019,16.56
-Castilla - La Mancha,2018,16.16
-Castilla - La Mancha,2017,19.74
-Castilla - La Mancha,2016,22.14
-Castilla - La Mancha,2015,24.97
-Castilla - La Mancha,2014,28.5
-Castilla - La Mancha,2013,28.99
-Castilla - La Mancha,2012,30.07
-Castilla - La Mancha,2011,24.53
-Castilla - La Mancha,2010,21.72
-Castilla - La Mancha,2009,19.29
-Castilla - La Mancha,2008,15.04
-Castilla - La Mancha,2007,8.1
-Castilla - La Mancha,2006,8.05
-Castilla - La Mancha,2005,9.42
-Castilla - La Mancha,2004,10.2
-Castilla - La Mancha,2003,9.8
-Castilla - La Mancha,2002,9.85
-Cataluña,2019,10.45
-Cataluña,2018,11.75
-Cataluña,2017,12.63
-Cataluña,2016,14.85
-Cataluña,2015,17.73
-Cataluña,2014,19.88
-Cataluña,2013,21.87
-Cataluña,2012,23.81
-Cataluña,2011,20.4
-Cataluña,2010,17.86
-Cataluña,2009,16.9
-Cataluña,2008,11.75
-Cataluña,2007,6.5
-Cataluña,2006,6.56
-Cataluña,2005,6.63
-Cataluña,2004,9.32
-Cataluña,2003,9.72
-Cataluña,2002,10.61
-Comunitat Valenciana,2019,14.13
-Comunitat Valenciana,2018,14.3
-Comunitat Valenciana,2017,16.76
-Comunitat Valenciana,2016,19.15
-Comunitat Valenciana,2015,21.45
-Comunitat Valenciana,2014,23.48
-Comunitat Valenciana,2013,27.15
-Comunitat Valenciana,2012,27.62
-Comunitat Valenciana,2011,24.83
-Comunitat Valenciana,2010,22.57
-Comunitat Valenciana,2009,22.09
-Comunitat Valenciana,2008,14.58
-Comunitat Valenciana,2007,8.94
-Comunitat Valenciana,2006,8.48
-Comunitat Valenciana,2005,8.13
-Comunitat Valenciana,2004,10.11
-Comunitat Valenciana,2003,10.68
-Comunitat Valenciana,2002,10.71
-Extremadura,2019,23.48
-Extremadura,2018,23.1
-Extremadura,2017,25.12
-Extremadura,2016,28.31
-Extremadura,2015,28.07
-Extremadura,2014,29.96
-Extremadura,2013,32.4
-Extremadura,2012,33.97
-Extremadura,2011,28.33
-Extremadura,2010,23.95
-Extremadura,2009,21.21
-Extremadura,2008,18.11
-Extremadura,2007,14.79
-Extremadura,2006,12.94
-Extremadura,2005,15.16
-Extremadura,2004,17.65
-Extremadura,2003,17.14
-Extremadura,2002,18.91
-Galicia,2019,11.74
-Galicia,2018,12.04
-Galicia,2017,14.71
-Galicia,2016,16.29
-Galicia,2015,17.74
-Galicia,2014,20.87
-Galicia,2013,21.88
-Galicia,2012,21.13
-Galicia,2011,18.17
-Galicia,2010,15.62
-Galicia,2009,12.8
-Galicia,2008,9.64
-Galicia,2007,7.46
-Galicia,2006,7.88
-Galicia,2005,9.14
-Galicia,2004,12.47
-Galicia,2003,13.46
-Galicia,2002,11.89
-Madrid,2019,9.99
-Madrid,2018,11.54
-Madrid,2017,13.75
-Madrid,2016,14.6
-Madrid,2015,16.51
-Madrid,2014,18
-Madrid,2013,20.45
-Madrid,2012,19.32
-Madrid,2011,17.96
-Madrid,2010,15.54
-Madrid,2009,14.48
-Madrid,2008,10.02
-Madrid,2007,6.4
-Madrid,2006,6.46
-Madrid,2005,5.9
-Madrid,2004,6.95
-Madrid,2003,7.16
-Madrid,2002,6.99
-Murcia,2019,16.08
-Murcia,2018,15.83
-Murcia,2017,17.21
-Murcia,2016,18.58
-Murcia,2015,23.51
-Murcia,2014,27.26
-Murcia,2013,28.5
-Murcia,2012,29.37
-Murcia,2011,26.31
-Murcia,2010,24.45
-Murcia,2009,21.84
-Murcia,2008,15.29
-Murcia,2007,8.25
-Murcia,2006,7.85
-Murcia,2005,7.43
-Murcia,2004,9.96
-Murcia,2003,10.76
-Murcia,2002,11.45
-Navarra,2019,9.01
-Navarra,2018,9.99
-Navarra,2017,9.63
-Navarra,2016,10.01
-Navarra,2015,13.53
-Navarra,2014,14.92
-Navarra,2013,16.44
-Navarra,2012,17.17
-Navarra,2011,13.8
-Navarra,2010,11.77
-Navarra,2009,10.51
-Navarra,2008,8.13
-Navarra,2007,4.28
-Navarra,2006,4.59
-Navarra,2005,5.92
-Navarra,2004,5.14
-Navarra,2003,6.16
-Navarra,2002,5.58
-País Vasco,2019,9.09
-País Vasco,2018,9.58
-País Vasco,2017,10.57
-País Vasco,2016,12.27
-País Vasco,2015,12.89
-País Vasco,2014,16.6
-País Vasco,2013,16.58
-País Vasco,2012,16.6
-País Vasco,2011,13.16
-País Vasco,2010,10.98
-País Vasco,2009,12.13
-País Vasco,2008,8.48
-País Vasco,2007,5.9
-País Vasco,2006,6.92
-País Vasco,2005,6.45
-País Vasco,2004,9.26
-País Vasco,2003,9.93
-País Vasco,2002,9.64
-La Rioja,2019,9.89
-La Rioja,2018,10.3
-La Rioja,2017,11.51
-La Rioja,2016,10.9
-La Rioja,2015,13.97
-La Rioja,2014,17.17
-La Rioja,2013,20.24
-La Rioja,2012,18.82
-La Rioja,2011,18.61
-La Rioja,2010,15.58
-La Rioja,2009,13.76
-La Rioja,2008,9.8
-La Rioja,2007,5.88
-La Rioja,2006,6.88
-La Rioja,2005,6.69
-La Rioja,2004,4.68
-La Rioja,2003,6.75
-La Rioja,2002,5.65
-Ceuta,2019,27.58
-Ceuta,2018,24.02
-Ceuta,2017,26.03
-Ceuta,2016,22.39
-Ceuta,2015,23.25
-Ceuta,2014,32.46
-Ceuta,2013,36.78
-Ceuta,2012,37.17
-Ceuta,2011,27.19
-Ceuta,2010,24.83
-Ceuta,2009,24.01
-Ceuta,2008,15.66
-Ceuta,2007,20.18
-Ceuta,2006,14.44
-Ceuta,2005,17.14
-Ceuta,2004,6.59
-Ceuta,2003,9.65
-Ceuta,2002,5.7
-Melilla,2019,26.81
-Melilla,2018,23.85
-Melilla,2017,24.62
-Melilla,2016,27.38
-Melilla,2015,32.64
-Melilla,2014,29.52
-Melilla,2013,33.79
-Melilla,2012,26.41
-Melilla,2011,24.84
-Melilla,2010,24.46
-Melilla,2009,19.87
-Melilla,2008,16.17
-Melilla,2007,17.43
-Melilla,2006,9.86
-Melilla,2005,12.33
-Melilla,2004,12.49
-Melilla,2003,19.88
-Melilla,2002,3.57
+"Comunidad","Periodo","Total"
+" Andalucía","2023",18.67
+" Andalucía","2022",19
+" Andalucía","2021",20.18
+" Andalucía","2020",22.74
+" Andalucía","2019",20.8
+" Andalucía","2018",21.26
+" Andalucía","2017",24.43
+" Andalucía","2016",28.25
+" Andalucía","2015",29.83
+" Andalucía","2014",34.23
+" Andalucía","2013",36.26
+" Andalucía","2012",35.71
+" Andalucía","2011",31.01
+" Andalucía","2010",28.04
+" Andalucía","2009",26.27
+" Andalucía","2008",21.66
+" Andalucía","2007",13.96
+" Andalucía","2006",12.22
+" Andalucía","2005",13.8
+" Andalucía","2004",15.99
+" Andalucía","2003",18.35
+" Andalucía","2002",20.15
+" Aragón","2023",7.77
+" Aragón","2022",9.41
+" Aragón","2021",9.02
+" Aragón","2020",12.49
+" Aragón","2019",9.93
+" Aragón","2018",11.11
+" Aragón","2017",11.37
+" Aragón","2016",13.53
+" Aragón","2015",14.6
+" Aragón","2014",18.65
+" Aragón","2013",20.59
+" Aragón","2012",18.72
+" Aragón","2011",16.8
+" Aragón","2010",16.29
+" Aragón","2009",13.57
+" Aragón","2008",9.71
+" Aragón","2007",5.12
+" Aragón","2006",4.99
+" Aragón","2005",5.76
+" Aragón","2004",5.56
+" Aragón","2003",6.53
+" Aragón","2002",6.54
+" Asturias, Principado de","2023",13.09
+" Asturias, Principado de","2022",14.39
+" Asturias, Principado de","2021",10.01
+" Asturias, Principado de","2020",13.5
+" Asturias, Principado de","2019",13.14
+" Asturias, Principado de","2018",12.86
+" Asturias, Principado de","2017",14.64
+" Asturias, Principado de","2016",14.59
+" Asturias, Principado de","2015",20.33
+" Asturias, Principado de","2014",20.78
+" Asturias, Principado de","2013",22.29
+" Asturias, Principado de","2012",23.82
+" Asturias, Principado de","2011",18.84
+" Asturias, Principado de","2010",16.61
+" Asturias, Principado de","2009",14.13
+" Asturias, Principado de","2008",10
+" Asturias, Principado de","2007",8
+" Asturias, Principado de","2006",9.09
+" Asturias, Principado de","2005",9.3
+" Asturias, Principado de","2004",10.24
+" Asturias, Principado de","2003",10.14
+" Asturias, Principado de","2002",10.12
+" Balears, Illes","2023",5.72
+" Balears, Illes","2022",10.91
+" Balears, Illes","2021",14.9
+" Balears, Illes","2020",17.34
+" Balears, Illes","2019",9.91
+" Balears, Illes","2018",10.91
+" Balears, Illes","2017",12.61
+" Balears, Illes","2016",13.8
+" Balears, Illes","2015",17.02
+" Balears, Illes","2014",18.88
+" Balears, Illes","2013",22.72
+" Balears, Illes","2012",24.3
+" Balears, Illes","2011",25.49
+" Balears, Illes","2010",21.78
+" Balears, Illes","2009",19.45
+" Balears, Illes","2008",12.05
+" Balears, Illes","2007",9.35
+" Balears, Illes","2006",6.34
+" Balears, Illes","2005",7.5
+" Balears, Illes","2004",8.09
+" Balears, Illes","2003",10.01
+" Balears, Illes","2002",8.69
+" Canarias","2023",15.23
+" Canarias","2022",14.57
+" Canarias","2021",18.94
+" Canarias","2020",25.22
+" Canarias","2019",18.78
+" Canarias","2018",19.99
+" Canarias","2017",22.04
+" Canarias","2016",24.9
+" Canarias","2015",26.75
+" Canarias","2014",31.08
+" Canarias","2013",33.09
+" Canarias","2012",32.6
+" Canarias","2011",30.33
+" Canarias","2010",28.78
+" Canarias","2009",26.77
+" Canarias","2008",20.99
+" Canarias","2007",10.89
+" Canarias","2006",11.37
+" Canarias","2005",10.88
+" Canarias","2004",10.75
+" Canarias","2003",12.04
+" Canarias","2002",11.32
+" Cantabria","2023",7.48
+" Cantabria","2022",10.34
+" Cantabria","2021",11.52
+" Cantabria","2020",11.79
+" Cantabria","2019",11.18
+" Cantabria","2018",9.68
+" Cantabria","2017",13.49
+" Cantabria","2016",12.89
+" Cantabria","2015",17.71
+" Cantabria","2014",18.42
+" Cantabria","2013",19.81
+" Cantabria","2012",19.19
+" Cantabria","2011",15.92
+" Cantabria","2010",14.67
+" Cantabria","2009",12.7
+" Cantabria","2008",8.81
+" Cantabria","2007",4.72
+" Cantabria","2006",5.87
+" Cantabria","2005",8.01
+" Cantabria","2004",11.1
+" Cantabria","2003",10.42
+" Cantabria","2002",10.58
+" Castilla y León","2023",9.47
+" Castilla y León","2022",8.83
+" Castilla y León","2021",10.33
+" Castilla y León","2020",11.61
+" Castilla y León","2019",11.2
+" Castilla y León","2018",11.21
+" Castilla y León","2017",13.71
+" Castilla y León","2016",14.81
+" Castilla y León","2015",17.58
+" Castilla y León","2014",20.28
+" Castilla y León","2013",22.02
+" Castilla y León","2012",20.74
+" Castilla y León","2011",17.21
+" Castilla y León","2010",15.78
+" Castilla y León","2009",14.21
+" Castilla y León","2008",11.4
+" Castilla y León","2007",6.94
+" Castilla y León","2006",7.58
+" Castilla y León","2005",8.53
+" Castilla y León","2004",10.48
+" Castilla y León","2003",11.02
+" Castilla y León","2002",10.15
+" Castilla - La Mancha","2023",11.85
+" Castilla - La Mancha","2022",14.38
+" Castilla - La Mancha","2021",13.31
+" Castilla - La Mancha","2020",17.39
+" Castilla - La Mancha","2019",16.56
+" Castilla - La Mancha","2018",16.16
+" Castilla - La Mancha","2017",19.74
+" Castilla - La Mancha","2016",22.14
+" Castilla - La Mancha","2015",24.97
+" Castilla - La Mancha","2014",28.5
+" Castilla - La Mancha","2013",28.99
+" Castilla - La Mancha","2012",30.07
+" Castilla - La Mancha","2011",24.53
+" Castilla - La Mancha","2010",21.72
+" Castilla - La Mancha","2009",19.29
+" Castilla - La Mancha","2008",15.04
+" Castilla - La Mancha","2007",8.1
+" Castilla - La Mancha","2006",8.05
+" Castilla - La Mancha","2005",9.42
+" Castilla - La Mancha","2004",10.2
+" Castilla - La Mancha","2003",9.8
+" Castilla - La Mancha","2002",9.85
+" Cataluña","2023",8.5
+" Cataluña","2022",9.91
+" Cataluña","2021",10.16
+" Cataluña","2020",13.87
+" Cataluña","2019",10.45
+" Cataluña","2018",11.75
+" Cataluña","2017",12.63
+" Cataluña","2016",14.85
+" Cataluña","2015",17.73
+" Cataluña","2014",19.88
+" Cataluña","2013",21.87
+" Cataluña","2012",23.81
+" Cataluña","2011",20.4
+" Cataluña","2010",17.86
+" Cataluña","2009",16.9
+" Cataluña","2008",11.75
+" Cataluña","2007",6.5
+" Cataluña","2006",6.56
+" Cataluña","2005",6.63
+" Cataluña","2004",9.32
+" Cataluña","2003",9.72
+" Cataluña","2002",10.61
+" Comunitat Valenciana","2023",11.79
+" Comunitat Valenciana","2022",13.53
+" Comunitat Valenciana","2021",14.39
+" Comunitat Valenciana","2020",16.37
+" Comunitat Valenciana","2019",14.13
+" Comunitat Valenciana","2018",14.3
+" Comunitat Valenciana","2017",16.76
+" Comunitat Valenciana","2016",19.15
+" Comunitat Valenciana","2015",21.45
+" Comunitat Valenciana","2014",23.48
+" Comunitat Valenciana","2013",27.15
+" Comunitat Valenciana","2012",27.62
+" Comunitat Valenciana","2011",24.83
+" Comunitat Valenciana","2010",22.57
+" Comunitat Valenciana","2009",22.09
+" Comunitat Valenciana","2008",14.58
+" Comunitat Valenciana","2007",8.94
+" Comunitat Valenciana","2006",8.48
+" Comunitat Valenciana","2005",8.13
+" Comunitat Valenciana","2004",10.11
+" Comunitat Valenciana","2003",10.68
+" Comunitat Valenciana","2002",10.71
+" Extremadura","2023",16.5
+" Extremadura","2022",17.62
+" Extremadura","2021",18.94
+" Extremadura","2020",21.32
+" Extremadura","2019",23.48
+" Extremadura","2018",23.1
+" Extremadura","2017",25.12
+" Extremadura","2016",28.31
+" Extremadura","2015",28.07
+" Extremadura","2014",29.96
+" Extremadura","2013",32.4
+" Extremadura","2012",33.97
+" Extremadura","2011",28.33
+" Extremadura","2010",23.95
+" Extremadura","2009",21.21
+" Extremadura","2008",18.11
+" Extremadura","2007",14.79
+" Extremadura","2006",12.94
+" Extremadura","2005",15.16
+" Extremadura","2004",17.65
+" Extremadura","2003",17.14
+" Extremadura","2002",18.91
+" Galicia","2023",9.29
+" Galicia","2022",10.63
+" Galicia","2021",11.01
+" Galicia","2020",11.66
+" Galicia","2019",11.74
+" Galicia","2018",12.04
+" Galicia","2017",14.71
+" Galicia","2016",16.29
+" Galicia","2015",17.74
+" Galicia","2014",20.87
+" Galicia","2013",21.88
+" Galicia","2012",21.13
+" Galicia","2011",18.17
+" Galicia","2010",15.62
+" Galicia","2009",12.8
+" Galicia","2008",9.64
+" Galicia","2007",7.46
+" Galicia","2006",7.88
+" Galicia","2005",9.14
+" Galicia","2004",12.47
+" Galicia","2003",13.46
+" Galicia","2002",11.89
+" Madrid, Comunidad de","2023",10.53
+" Madrid, Comunidad de","2022",11.51
+" Madrid, Comunidad de","2021",10.12
+" Madrid, Comunidad de","2020",13.53
+" Madrid, Comunidad de","2019",9.99
+" Madrid, Comunidad de","2018",11.54
+" Madrid, Comunidad de","2017",13.75
+" Madrid, Comunidad de","2016",14.6
+" Madrid, Comunidad de","2015",16.51
+" Madrid, Comunidad de","2014",18
+" Madrid, Comunidad de","2013",20.45
+" Madrid, Comunidad de","2012",19.32
+" Madrid, Comunidad de","2011",17.96
+" Madrid, Comunidad de","2010",15.54
+" Madrid, Comunidad de","2009",14.48
+" Madrid, Comunidad de","2008",10.02
+" Madrid, Comunidad de","2007",6.4
+" Madrid, Comunidad de","2006",6.46
+" Madrid, Comunidad de","2005",5.9
+" Madrid, Comunidad de","2004",6.95
+" Madrid, Comunidad de","2003",7.16
+" Madrid, Comunidad de","2002",6.99
+" Murcia, Región de","2023",13.39
+" Murcia, Región de","2022",12.89
+" Murcia, Región de","2021",12.92
+" Murcia, Región de","2020",15.39
+" Murcia, Región de","2019",16.08
+" Murcia, Región de","2018",15.83
+" Murcia, Región de","2017",17.21
+" Murcia, Región de","2016",18.58
+" Murcia, Región de","2015",23.51
+" Murcia, Región de","2014",27.26
+" Murcia, Región de","2013",28.5
+" Murcia, Región de","2012",29.37
+" Murcia, Región de","2011",26.31
+" Murcia, Región de","2010",24.45
+" Murcia, Región de","2009",21.84
+" Murcia, Región de","2008",15.29
+" Murcia, Región de","2007",8.25
+" Murcia, Región de","2006",7.85
+" Murcia, Región de","2005",7.43
+" Murcia, Región de","2004",9.96
+" Murcia, Región de","2003",10.76
+" Murcia, Región de","2002",11.45
+" Navarra, Comunidad Foral de","2023",9.29
+" Navarra, Comunidad Foral de","2022",10.09
+" Navarra, Comunidad Foral de","2021",9.93
+" Navarra, Comunidad Foral de","2020",11.65
+" Navarra, Comunidad Foral de","2019",9.01
+" Navarra, Comunidad Foral de","2018",9.99
+" Navarra, Comunidad Foral de","2017",9.63
+" Navarra, Comunidad Foral de","2016",10.01
+" Navarra, Comunidad Foral de","2015",13.53
+" Navarra, Comunidad Foral de","2014",14.92
+" Navarra, Comunidad Foral de","2013",16.44
+" Navarra, Comunidad Foral de","2012",17.17
+" Navarra, Comunidad Foral de","2011",13.8
+" Navarra, Comunidad Foral de","2010",11.77
+" Navarra, Comunidad Foral de","2009",10.51
+" Navarra, Comunidad Foral de","2008",8.13
+" Navarra, Comunidad Foral de","2007",4.28
+" Navarra, Comunidad Foral de","2006",4.59
+" Navarra, Comunidad Foral de","2005",5.92
+" Navarra, Comunidad Foral de","2004",5.14
+" Navarra, Comunidad Foral de","2003",6.16
+" Navarra, Comunidad Foral de","2002",5.58
+" País Vasco","2023",8.32
+" País Vasco","2022",8.66
+" País Vasco","2021",8.43
+" País Vasco","2020",9.96
+" País Vasco","2019",9.09
+" País Vasco","2018",9.58
+" País Vasco","2017",10.57
+" País Vasco","2016",12.27
+" País Vasco","2015",12.89
+" País Vasco","2014",16.6
+" País Vasco","2013",16.58
+" País Vasco","2012",16.6
+" País Vasco","2011",13.16
+" País Vasco","2010",10.98
+" País Vasco","2009",12.13
+" País Vasco","2008",8.48
+" País Vasco","2007",5.9
+" País Vasco","2006",6.92
+" País Vasco","2005",6.45
+" País Vasco","2004",9.26
+" País Vasco","2003",9.93
+" País Vasco","2002",9.64
+" Rioja, La","2023",9.61
+" Rioja, La","2022",8.6
+" Rioja, La","2021",10.45
+" Rioja, La","2020",10.36
+" Rioja, La","2019",9.89
+" Rioja, La","2018",10.3
+" Rioja, La","2017",11.51
+" Rioja, La","2016",10.9
+" Rioja, La","2015",13.97
+" Rioja, La","2014",17.17
+" Rioja, La","2013",20.24
+" Rioja, La","2012",18.82
+" Rioja, La","2011",18.61
+" Rioja, La","2010",15.58
+" Rioja, La","2009",13.76
+" Rioja, La","2008",9.8
+" Rioja, La","2007",5.88
+" Rioja, La","2006",6.88
+" Rioja, La","2005",6.69
+" Rioja, La","2004",4.68
+" Rioja, La","2003",6.75
+" Rioja, La","2002",5.65
+" Ceuta","2023",27.79
+" Ceuta","2022",30.55
+" Ceuta","2021",26.86
+" Ceuta","2020",26.74
+" Ceuta","2019",27.58
+" Ceuta","2018",24.02
+" Ceuta","2017",26.03
+" Ceuta","2016",22.39
+" Ceuta","2015",23.25
+" Ceuta","2014",32.46
+" Ceuta","2013",36.78
+" Ceuta","2012",37.17
+" Ceuta","2011",27.19
+" Ceuta","2010",24.83
+" Ceuta","2009",24.01
+" Ceuta","2008",15.66
+" Ceuta","2007",20.18
+" Ceuta","2006",14.44
+" Ceuta","2005",17.14
+" Ceuta","2004",6.59
+" Ceuta","2003",9.65
+" Ceuta","2002",5.7
+" Melilla","2023",20.89
+" Melilla","2022",21.2
+" Melilla","2021",20.24
+" Melilla","2020",23.83
+" Melilla","2019",26.81
+" Melilla","2018",23.85
+" Melilla","2017",24.62
+" Melilla","2016",27.38
+" Melilla","2015",32.64
+" Melilla","2014",29.52
+" Melilla","2013",33.79
+" Melilla","2012",26.41
+" Melilla","2011",24.84
+" Melilla","2010",24.46
+" Melilla","2009",19.87
+" Melilla","2008",16.17
+" Melilla","2007",17.43
+" Melilla","2006",9.86
+" Melilla","2005",12.33
+" Melilla","2004",12.49
+" Melilla","2003",19.88
+" Melilla","2002",3.57
