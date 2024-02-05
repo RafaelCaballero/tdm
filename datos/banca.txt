@@ -1,4 +1,6 @@
-db.cuentas.insert({
+db.cuentas.drop();
+
+db.cuentas.insertOne({
     nombre:"bertoldo",
     calle:"General Jamón, num. 3.141592",
     cuentas:[ {num:"001", saldo:2000, compartida:true},
@@ -6,30 +8,30 @@ db.cuentas.insert({
     datoscontacto:{ email:"bertoldo@ucm.es", 
                     telfs:{fijo:"913421234", 
                            movil:["5655555","444444"]} }
-})
+});
 
 
-db.cuentas.insert({
+db.cuentas.insertOne({
     nombre:"herminia",
     calle:"General Jamón, num. 3.141592",
     cuentas:[ {num:"001", saldo:2000, compartida:true}],
     datoscontacto:{ email:"herminia@ucm.es", 
                     telfs:{fijo:"913421234", 
                            movil:["22222"]} }
-})
+});
 
-db.cuentas.insert({
+db.cuentas.insertOne({
     nombre:"aniceto",
-    calle:"Calle, calle",
+    calle:"Calle Magnolia 43",
     cuentas:[ {num:"003", saldo:1500, compartida:false}],
     hipoteca:{total:250000,debe:0}
 })
 
-db.cuentas.insert({
+db.cuentas.insertOne({
     nombre:"toribia",
     calle:"Vía Pía",
     cuentas:[ {num:"004", saldo:300, compartida:false}],
     hipoteca:{total:150000,debe:110000}
-})
+});
 
 
